@@ -26,7 +26,11 @@ I created this project to practice the fundamentals of web development, includin
 
 ## Project Preview
 
-![Spotify UI Clone](images/preview.png)
+### Home Page
+![Spotify UI Clone - Home](preview.png)
+
+### Scrolled View
+![Spotify UI Clone - Scrolled View](preview2.png)
 
 ## Live Demo
 
