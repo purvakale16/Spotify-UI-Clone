@@ -34,7 +34,7 @@ I created this project to practice the fundamentals of web development, includin
 
 ## Live Demo
 
-[View Live Demo]([YOUR-LIVE-DEMO-LINK](https://purvakale16.github.io/Spotify-UI-Clone/))
+[View Live Demo]([https://purvakale16.github.io/Spotify-UI-Clone/])
 
 ## What I Learned
 
