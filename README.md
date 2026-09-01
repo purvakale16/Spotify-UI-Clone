@@ -26,7 +26,7 @@ I created this project to practice the fundamentals of web development, includin
 
 ## Project Preview
 
-
+![Spotify UI Clone](images/preview.png)
 
 ## Live Demo
 
